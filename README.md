@@ -1,7 +1,3 @@
-Of course. Here is the updated README.md with a new section explaining the model choice, as you requested.
-
-Markdown
-
 # Fake News Detection using Deep Learning and LSTM 🧠
 
 In this project, I implemented a deep learning model to detect and classify "fake" vs. "real" news articles. This was part of my Kwiklabs Google Cloud Platform hands-on lab experience. Using a dataset of news articles, this notebook walks through the entire machine learning workflow, from data cleaning and exploratory analysis to building, training, and evaluating a sophisticated NLP model.
